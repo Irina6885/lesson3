@@ -1,0 +1,23 @@
+a{
+    color: green;
+}
+
+.text{
+    color: red;
+}
+
+.top{
+    color: blue;
+}
+
+#top{
+    color: rgb(139, 88, 88);
+}
+
+.blue ul{
+    color: rgb(87, 204, 240);
+}
+
+.blue > li{
+    color: purple;
+}
